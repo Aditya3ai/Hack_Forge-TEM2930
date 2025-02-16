@@ -1,6 +1,3 @@
-Here’s a comprehensive README.md template for your GitHub repository, including all the necessary details such as the project requirements, installation steps, and scalability considerations:
-
----
 
 # AI Virtual Tutor: Personalized AI-based academic assistance.
 
