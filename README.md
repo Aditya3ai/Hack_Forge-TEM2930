@@ -4,8 +4,8 @@
 **Team ALRA (Team ID: TEM2930)**
 
 **TEAM MEMBERS**
-**ADITYA R**
-**MUTHUSELVI N**
+**ADITYA R**,
+**MUTHUSELVI N**,
 **SAINATH KK**
 
 This repository contains the code for our AI-powered application aimed at improving resume building, exam preparation, aptitude training, speech-to-text conversion, and accessibility tools for students and job seekers. The project leverages Generative AI to automate and enhance learning experiences for individuals with disabilities and other users.
