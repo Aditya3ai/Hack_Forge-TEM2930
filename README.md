@@ -2,7 +2,7 @@ Here’s a comprehensive README.md template for your GitHub repository, includin
 
 ---
 
-# AI-Powered Education and Career Assistance System
+# AI Virtual Tutor: Personalized AI-based academic assistance.
 
 **Team ALRA (Team ID: TEM2930)**
 
